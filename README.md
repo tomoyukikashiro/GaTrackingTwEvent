@@ -11,7 +11,7 @@ This script enable to track some Facebook event such as like, unlike, add commen
 ## Initialize
 
 ```javascript
-  var gaTwEvent = new GoolgeAnalyticsTwEvent({
+  var gaTwEvent = new GaTrackingTwEvent({
     click         : true, // when set false, do not track
     tweet         : true,
     callback      : function(res){
@@ -29,7 +29,7 @@ load Twitter SDK asynchronously
 ```html
 
 <!-- load this script -->
-<script src="./GoolgeAnalyticsTwEvent.js"></script>
+<script src="./GaTrackingTwEvent.min.js"></script>
 
 <script>
 window.twttr = (function (d,s,id) {
