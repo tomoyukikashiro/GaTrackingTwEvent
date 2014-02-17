@@ -1,0 +1,25 @@
+{
+  "name": "GaTrackingTwEvent",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kashiro/GaTrackingTwEvent",
+  "authors": [
+    "Tomoyuki Kashiro <ksrtmyk@gmail.com>"
+  ],
+  "description": "Utility Class of tracking some Facebook events by using Google Analyitcs",
+  "main": "dist/GaTrackingTwEvent.js",
+  "keywords": [
+    "googleanalytics",
+    "twitter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "karma.conf.js",
+    "resources",
+    "src",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
