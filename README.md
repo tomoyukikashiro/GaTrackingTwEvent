@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.org/kashiro/GaTrackingTwEvent.png?branch=master)](https://travis-ci.org/kashiro/GaTrackingTwEvent)
 
-Utility Class of tracking some Facebook events by using Google Analyitcs
+Utility Class of tracking some Twitter events by using Google Analyitcs
 
 ## Outline
 
-This script enable to track some Facebook event such as like, unlike, add comment, remove comment and send message.
+This script enable to track some Twitter event such as tweet.
 
 ## Install via bower
 
